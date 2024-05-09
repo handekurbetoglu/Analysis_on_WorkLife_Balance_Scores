@@ -23,11 +23,11 @@ Data Collection
 The dataset comprises 15,977 responses from a Kaggle survey, detailing aspects such as task completion, income sufficiency, stress levels, and dietary habits.
 
 ## Analytical Techniques
-### Descriptive Statistics: Summarize data distribution and identify anomalies.
-### Data Cleaning and Preparation: Standardize formats, handle missing values, and convert text to numerical data.
-### Exploratory Data Analysis (EDA): Use visualizations and regression to understand variable distributions and interrelationships.
-### Statistical Modeling: Apply multiple linear regression to analyze the impact of lifestyle factors on work-life balance.
-### Interpretation and Implications: Discuss the real-world applicability of the findings.
+Descriptive Statistics: Summarize data distribution and identify anomalies.
+Data Cleaning and Preparation: Standardize formats, handle missing values, and convert text to numerical data.
+Exploratory Data Analysis (EDA): Use visualizations and regression to understand variable distributions and interrelationships.
+Statistical Modeling: Apply multiple linear regression to analyze the impact of lifestyle factors on work-life balance.
+Interpretation and Implications: Discuss the real-world applicability of the findings.
 
 ## Data Cleaning and Preparation
 Python libraries such as Pandas, Matplotlib, and Seaborn were used for data manipulation and visualization. Specific steps included:
