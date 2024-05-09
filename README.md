@@ -4,6 +4,7 @@ This project explores the impacts of various lifestyle factors on work-life bala
 
 ## Table of Contents
 ### Introduction
+### Objective
 ### Methodology
 ### Data Cleaning and Preparation
 ### Exploratory Data Analysis
@@ -11,7 +12,7 @@ This project explores the impacts of various lifestyle factors on work-life bala
 ### Results and Discussion
 ### Conclusions
 
-### Context
+## Introduction
 In today’s fast-paced environment, achieving a healthy work-life balance is more crucial than ever. This study leverages a comprehensive dataset to assess how daily activities and personal achievements impact individuals' well-being.
 
 ## Objective
